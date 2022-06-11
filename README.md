@@ -21,7 +21,7 @@ $ git add .
 $ touch <file.extension name>- make file
 
 ##Commit--
--Commit changes to head (but not yet to the remote repository):
+-Commit changes to head , but not yet to the remote repository:
 $ git commit -m "Commit message"
 -Commit any files you've added with git add, and also commit any files you've changed since then:
 $ git commit -a
