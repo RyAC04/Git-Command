@@ -1,19 +1,20 @@
 # Git command 
 
-## Tell Git who you ar
+## Tell Git who you are--
 $ git config --global user.name "Sam Smith"
+
 $ git config --global user.email sam@example.com
 
 ## Create a new local repository--
 $ git init - initialize local git repository and create .git folder
 
-## Check out a repository --
-### Create a working copy of a local repository:
+## Check out a repository--
+### Create a working copy of a local repository
 $ git clone /path/to/repository
 -For a remote server, use:
 $ git clone username@host:/path/to/repository
 
-## Add files --
+## Add files--
 $ git add <filename>
 $ git add *
 $ git add .
