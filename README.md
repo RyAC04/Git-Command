@@ -1,5 +1,7 @@
 # Git command 
 
+[Reference](http://git-scm.com/docs)
+
 ## Tell Git who you are--
 $ git config --global user.name "Sam Smith"
 
